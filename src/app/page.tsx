@@ -1,5 +1,5 @@
 export default function Page() {
-  return <h1>Hello, Mahmud Hasan Mahim  </h1>
+  return <h1>Welcome to my Site</h1>
 }
 
 
